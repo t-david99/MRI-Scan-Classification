@@ -14,34 +14,34 @@ Furthermore, there are machine learning models currently in development that aid
 
 1. Data Set
 
-A set of MRI brain scan images were downloaded from the Kaggle website, and can be downloaded using the following link: https://www.kaggle.com/dsv/1183165. The images are also included in the Data folder. 
+   A set of MRI brain scan images were downloaded from the Kaggle website, and can be downloaded using the following link: https://www.kaggle.com/dsv/1183165. The images are also included in the Data folder. 
 
-This dataset has a rather extensive directory. Inside of the main folder are two subfolders: Testing and Training. Testing and Training each have the following subfolders: glioma_tumor, meningioma_tumor, pituitary_tumor, and no_tumor. Each of the four subfolders contain hundreds of MRI brain scan images of differing size. Using the title of each of the four subfolders, I created the labels for each image. In total, there are 3264 MRI brain scan images in the dataset.
+   This dataset has a rather extensive directory. Inside of the main folder are two subfolders: Testing and Training. Testing and Training each have the following subfolders: glioma_tumor, meningioma_tumor,          pituitary_tumor, and no_tumor. Each of the four subfolders contain hundreds of MRI brain scan images of differing size. Using the title of each of the four subfolders, I created the labels for each image. In      total, there are 3264 MRI brain scan images in the dataset.
 
-The MRI brain scan images used for this project contain brain tumors of three common types: glioma, meningioma, and pituitary. Gliomas are formed by the overgrowth of glial cells that surround the nerves and aid in nerve function. Meningiomas are oftentimes benign (non-cancerous) tumors that form on the meninges. They are the membranes that surround the brain and spinal chord (Srakocic, 2023). Pituitary tumors, as the name suggests, form on the pituitary gland. There are a total of 926 images in the glioma class, 937 in the meningioma class, 901 in the pituitary class, and 500 in the no tumor class.
+   The MRI brain scan images used for this project contain brain tumors of three common types: glioma, meningioma, and pituitary. Gliomas are formed by the overgrowth of glial cells that surround the nerves and      aid in nerve function. Meningiomas are oftentimes benign (non-cancerous) tumors that form on the meninges. They are the membranes that surround the brain and spinal chord (Srakocic, 2023). Pituitary tumors,       as the name suggests, form on the pituitary gland. There are a total of 926 images in the glioma class, 937 in the meningioma class, 901 in the pituitary class, and 500 in the no tumor class.
    
 2. Code
 
-- MRI_Scan_Project_Code.ipynb contains all of the code used throughout this project.
+   - MRI_Scan_Project_Code.ipynb contains all of the code used throughout this project.
    
 3. Results/Conclusions
 
-- MRI_Scan_Conclusions.txt is a text file that summarizes the projects findings and compares the models through various metrics.
+   - MRI_Scan_Conclusions.txt is a text file that summarizes the projects findings and compares the models through various metrics.
 
 
 ## How to Run the Project
 
 1. Dependencies
 
-Using the following code, install the following Python libraries (if not done so already): pip install numpy glob2 pillow matplotlib scikit-learn scikit-image scipy opencv-python torch
+   Using the following code, install the following Python libraries (if not done so already): pip install numpy glob2 pillow matplotlib scikit-learn scikit-image scipy opencv-python torch
 
 2. Notebook Execution
 
-Using your favorite IDE, run the MRI_Scan_Project_Code.ipynb Python notebook.
+   Using your favorite IDE, run the MRI_Scan_Project_Code.ipynb Python notebook.
 
 3. Analysis of the Results
 
-A thorough analysis of the results can be found in the MRI_Scan_Conclusions.txt file.
+   A thorough analysis of the results can be found in the MRI_Scan_Conclusions.txt file.
 
 ## References
 
