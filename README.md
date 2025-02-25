@@ -33,11 +33,7 @@ Furthermore, there are machine learning models currently in development that aid
 
 2. Notebook Execution
 
-   Using your favorite IDE, run the MRI_Scan_Project_Code.ipynb Python notebook.
-
-3. Analysis of the Results
-
-   A thorough analysis of the results can be found in the MRI_Scan_Conclusions.txt file.
+   Using your favorite IDE, run the MRI_Scan_Project_Code.ipynb Python notebook. Also read through the analysis throughout the notebook.
 
 ## References
 
