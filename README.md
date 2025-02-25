@@ -22,11 +22,7 @@ Furthermore, there are machine learning models currently in development that aid
    
 2. Code
 
-   - MRI_Scan_Project_Code.ipynb contains all of the code used throughout this project.
-   
-3. Results/Conclusions
-
-   - MRI_Scan_Conclusions.txt is a text file that summarizes the projects findings and compares the models through various metrics.
+   - MRI_Scan_Project_Code.ipynb contains all of the code used throughout this project. It also includes discussion of results and models throughout.
 
 
 ## How to Run the Project
