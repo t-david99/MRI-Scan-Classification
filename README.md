@@ -14,7 +14,7 @@ Furthermore, there are machine learning models currently in development that aid
 
 1. Data Set
 
-   A set of MRI brain scan images were downloaded from the Kaggle website, and can be downloaded using the following link: https://www.kaggle.com/dsv/1183165.
+   A set of MRI brain scan images are found in the Data folder of the directory. They were downloaded from the following link: https://www.kaggle.com/dsv/1183165.
 
    This dataset has a rather extensive directory. Inside of the main folder are two subfolders: Testing and Training. Testing and Training each have the following subfolders: glioma_tumor, meningioma_tumor,          pituitary_tumor, and no_tumor. Each of the four subfolders contain hundreds of MRI brain scan images of differing size. Using the title of each of the four subfolders, I created the labels for each image. In      total, there are 3264 MRI brain scan images in the dataset.
 
